@@ -8,7 +8,7 @@ import android.util.Log;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-
+    public static final String EXTRA_MESSAGE = "nowruz.twoactivities.extra.MESSAGE";
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
 
     @Override
